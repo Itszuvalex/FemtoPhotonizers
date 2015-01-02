@@ -11,10 +11,7 @@ To build, you must first have FemtoCraft's source code. If you are on windows an
 `
 .
 ├── _libs
-
-   ├── _Femtocraft/
-   
-       ├── _src/
-	   
-       ├── _art/
+   ├── _Femtocraft
+       ├── _src
+       ├── _art
 `
