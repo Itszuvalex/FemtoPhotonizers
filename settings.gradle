@@ -1,0 +1,2 @@
+include ':Femtocraft'
+project(':Femtocraft').projectDir = new File(settingsDir, './libs/Femtocraft/')

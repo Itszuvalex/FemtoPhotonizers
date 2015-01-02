@@ -1,0 +1,9 @@
+*
+!artwork/
+!src/
+!.gitignore
+!build.gradle
+!pullfemto.bat
+!settings.gradle
+!LICENSE.md
+!README.md
